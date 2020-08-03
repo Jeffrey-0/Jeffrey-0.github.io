@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jeffrey-0.github.io/friend/index.html</loc>
+    <loc>https://jeffrey-0.github.io/message/index.html</loc>
+    
+    <lastmod>2020-08-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jeffrey-0.github.io/about/index.html</loc>
     
     <lastmod>2020-08-03</lastmod>
     
@@ -10,6 +17,13 @@
   
   <url>
     <loc>https://jeffrey-0.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-08-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jeffrey-0.github.io/friend/index.html</loc>
     
     <lastmod>2020-08-03</lastmod>
     
@@ -66,20 +80,6 @@
   
   <url>
     <loc>https://jeffrey-0.github.io/note/index.html</loc>
-    
-    <lastmod>2020-08-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jeffrey-0.github.io/message/index.html</loc>
-    
-    <lastmod>2020-08-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jeffrey-0.github.io/about/index.html</loc>
     
     <lastmod>2020-08-03</lastmod>
     
