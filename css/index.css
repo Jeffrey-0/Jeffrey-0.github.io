@@ -2416,6 +2416,7 @@ body::before {
 }
 .gallery img {
   margin-bottom: 10px;
+  width: 220px;
 }
 .exturl__icon {
   margin: 0 0.1em 0 0.3em;
@@ -2913,6 +2914,9 @@ html.nightmode {
   .post-list .post {
     margin: 0 0 0.8rem;
     padding: 0.8rem;
+  }
+  .gallery img {
+    width: 100%;
   }
   .friends-plugin__item {
     margin: 0;
