@@ -2926,3 +2926,12 @@ html.nightmode {
 .header-inner {
   font-size: 16px;
 }
+.header-nav-menu,
+.header-nav-submenu {
+  background-color: rgba(40,42,44,0.6);
+}
+.header-nav-menu-item__link:hover,
+.header-nav-submenu .header-nav-submenu-item__link:hover {
+  color: #a4d8fa;
+  background-color: rgba(40,42,44,0.6);
+}
