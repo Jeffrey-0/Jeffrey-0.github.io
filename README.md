@@ -6,7 +6,7 @@
 
 ## 截图
 
-![img](D:\前端工程师\github\hexo-blog\source\assets\img\blog\博客.gif)
+![img](/assets/img/blog/博客.gif)
 
 ## 功能
 
@@ -21,4 +21,3 @@
 - 支持[Valine](https://valine.js.org/)评论
 - 代码高亮，[多种配色](https://liuyib.github.io/hexo-theme-stun/zh-CN/advanced/advanced-setting.html#代码高亮)可选
 - 好看的[背景特效](https://liuyib.github.io/hexo-theme-stun/zh-CN/advanced/third-part.html#ribbon)
-
