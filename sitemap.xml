@@ -289,13 +289,6 @@
   </url>
   
   <url>
-    <loc>https://jeffrey-0.github.io/2020/04/21/2020-04-21-over-the-wall/</loc>
-    
-    <lastmod>2020-04-21</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jeffrey-0.github.io/2020/04/20/2020-04-20-bulid-blog/</loc>
     
     <lastmod>2020-04-20</lastmod>
@@ -341,13 +334,6 @@
   
   <url>
     <loc>https://jeffrey-0.github.io/tags/git/</loc>
-    <lastmod>2020-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeffrey-0.github.io/tags/other/</loc>
     <lastmod>2020-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -488,13 +474,6 @@
   
   <url>
     <loc>https://jeffrey-0.github.io/tags/CSS%E9%A2%84%E5%A4%84%E7%90%86%E5%99%A8/</loc>
-    <lastmod>2020-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jeffrey-0.github.io/tags/nodejs/</loc>
     <lastmod>2020-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
